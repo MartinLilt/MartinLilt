@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm excited to connect with you. Here are some way
 [![Enzyme](https://img.shields.io/badge/Enzyme-00ADF2?style=for-the-badge&logo=airbnb&logoColor=white)](https://enzymejs.github.io/enzyme/)
 [![RTL](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
 
-### Databases, CMS, Builders
+### Databases, CMS, and Builders
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
