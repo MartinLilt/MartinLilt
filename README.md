@@ -7,13 +7,16 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:question@limihub.info)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://website-portfolio-fd41ed.webflow.io/)
 
-## Programming Languages Proficiency
+## Programming Knowledge
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+| Language                                                                                                    | Proficiency      | Years of Experience | Badge                                                                                                          |
+|-------------------------------------------------------------------------------------------------------------|------------------|---------------------|---------------------------------------------------------------------------------------------------------------|
+| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)                                       | Expert (95%)     | 5+ Years            | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| [TypeScript](https://www.typescriptlang.org/)                                                               | Advanced (90%)   | 3+ Years            | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) |
+| [PHP](https://www.php.net/)                                                                                 | Intermediate (75%) | 4 Years            | [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) |
+| [Python](https://www.python.org/)                                                                           | Intermediate (80%) | 2+ Years           | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) |
+| [Ruby](https://www.ruby-lang.org/)                                                                          | Beginner (70%)   | 1 Year              | [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/) |
+
 
 ### Libraries, Frameworks, and Technologies
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
