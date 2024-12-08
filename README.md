@@ -13,9 +13,9 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <th style="width: 25%;">Badge</th>
-    <th style="width: 20%;">Proficiency</th>
-    <th style="width: 20%;">Years of Experience</th>
+    <th style="width: 30%;">Badge</th>
+    <th style="width: 15%;">Proficiency</th>
+    <th style="width: 15%;">Years of Experience</th>
     <th style="width: 40%;">Usage</th>
   </tr>
   <tr>
@@ -105,7 +105,6 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 
----
 
 ## What i offer:
 1. AI-Driven Web Development: Seamless integration of AI  tools and APIs to enhance functionality and user engagement.
