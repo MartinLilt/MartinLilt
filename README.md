@@ -11,13 +11,44 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 
 ## Programming Knowledge
 
-| Badge                                                                                                          | Proficiency      | Years of Experience | Usage                                                                                      | Language                                                                                                    |
-|---------------------------------------------------------------------------------------------------------------|------------------|---------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | Expert (95%)     | 5+ Years            | Full-stack development, scripting, API & CMS services                                     | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)                                       |
-| [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | Advanced (90%)   | 3+ Years            | Web application development, platform architecture                                        | [TypeScript](https://www.typescriptlang.org/)                                                               |
-| [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)                              | Intermediate (75%) | 2 Years            | Website backend development, CMS customization                                            | [PHP](https://www.php.net/)                                                                                 |
-| [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)                  | Intermediate (80%) | 1+ Years           | Backend development, automation, creating bots, and innovative data processing workflows  | [Python](https://www.python.org/)                                                                           |
-| [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)                     | Beginner (70%)   | 1 Year              | Lightweight web applications, scripting tools, and improving existing systems             | [Ruby](https://www.ruby-lang.org/)                                                                          |
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <th style="width: 20%;">Badge</th>
+    <th style="width: 20%;">Proficiency</th>
+    <th style="width: 20%;">Years of Experience</th>
+    <th style="width: 40%;">Usage</th>
+  </tr>
+  <tr>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"></a></td>
+    <td>Expert (95%)</td>
+    <td>5+ Years</td>
+    <td>Full-stack development, scripting, API & CMS services</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"></a></td>
+    <td>Advanced (90%)</td>
+    <td>3+ Years</td>
+    <td>Web application development, platform architecture</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"></a></td>
+    <td>Intermediate (75%)</td>
+    <td>2 Years</td>
+    <td>Website backend development, CMS customization</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></a></td>
+    <td>Intermediate (80%)</td>
+    <td>1+ Years</td>
+    <td>Backend development, automation, creating bots, and innovative workflows</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge"></a></td>
+    <td>Beginner (70%)</td>
+    <td>1 Year</td>
+    <td>Lightweight web applications, scripting tools, and improving existing systems</td>
+  </tr>
+</table>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
