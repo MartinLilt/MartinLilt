@@ -10,19 +10,19 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 ## Programming Languages Proficiency
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-**Proficiency**: ██████████ 95%
+██████████ 95%
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-**Proficiency**: █████████ 90%
+█████████░ 90%
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
-**Proficiency**: ████████ 75%
+███████░░░ 75%
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-**Proficiency**: ████████ 80%
+████████░░ 80%
 
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)  
-**Proficiency**: ███████ 70%
+██████░░░░ 70%
 
 ### Libraries, Frameworks, and Technologies
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
