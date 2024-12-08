@@ -81,10 +81,6 @@ Front-end developer with a strong passion for crafting innovative and high-quali
 3. Custom Solutions: Tailored web applications for B2B,  B2C, and SaaS businesses, ensuring every project is aligned with your goals.
 4. Performance Optimization: Speed, SEO, and accessibility  improvements for websites that perform flawlessly across all platforms.
 
----
-
 If you're looking for a professional you can trust to take on your project and deliver 
 exceptional results while keeping the process smooth and stress-free, let’s connect.
-
-## Message me today to get started!
 
