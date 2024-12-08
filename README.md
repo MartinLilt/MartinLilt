@@ -13,7 +13,7 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <th style="width: 20%;">Badge</th>
+    <th style="width: 25%;">Badge</th>
     <th style="width: 20%;">Proficiency</th>
     <th style="width: 20%;">Years of Experience</th>
     <th style="width: 40%;">Usage</th>
