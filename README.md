@@ -1,4 +1,4 @@
-# Hey! Nice to see you!
+this is what I have now: # Hey! Nice to see you!
 
 As a Frontend Developer with a passion for innovation, I specialize in crafting AI-enhanced web applications that deliver exceptional user experiences. My expertise lies in merging cutting-edge AI technologies with modern frontend frameworks like React and Vue.js to create intelligent, efficient, and visually captivating solutions.
 
@@ -7,16 +7,14 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:question@limihub.info)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://website-portfolio-fd41ed.webflow.io/)
 
----
-
 ## Tech Stack
 
 ### Languages
-![JavaScript](https://progress-bar.dev/90/?title=JavaScript)
-![TypeScript](https://progress-bar.dev/75/?title=TypeScript)
-![Python](https://progress-bar.dev/60/?title=Python)
-![Ruby](https://progress-bar.dev/55/?title=Ruby)
-![PHP](https://progress-bar.dev/60/?title=PHP)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 
 ### Libraries, Frameworks, and Technologies
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
@@ -35,6 +33,21 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![Primevue](https://img.shields.io/badge/Primevue-8D42F2?style=for-the-badge&logo=primevue&logoColor=white)](https://www.primefaces.org/primevue/)
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Pinia](https://img.shields.io/badge/Pinia-42B883?style=for-the-badge&logo=vuex&logoColor=white)](https://pinia.vuejs.org/)
+[![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)](https://mobx.js.org/)
+[![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)](https://restfulapi.net/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Enzyme](https://img.shields.io/badge/Enzyme-00ADF2?style=for-the-badge&logo=airbnb&logoColor=white)](https://enzymejs.github.io/enzyme/)
+[![RTL](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
 
 ### Databases, CMS, and Builders
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -46,27 +59,26 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
 [![Shopify](https://img.shields.io/badge/Shopify-8DB543?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)](https://www.prestashop.com/)
+[![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)](https://webflow.com/)
+[![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://www.wix.com/)
 
 ### IDEs & Engines
 [![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
-[![OrbStack](https://img.shields.io/badge/OrbStack-00D1FF?style=for-the-badge&logo=orbstack&logoColor=white)](https://orbstack.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
 
-## What I Offer
-1. **AI-Driven Web Development**: Seamless integration of AI tools and APIs to enhance functionality and user engagement.
-2. **Dynamic User Interfaces**: Expert in designing intuitive, responsive, and scalable interfaces with React, Vue.js, and Nuxt.js.
-3. **Custom Solutions**: Tailored web applications for B2B, B2C, and SaaS businesses, ensuring every project is aligned with your goals.
-4. **Performance Optimization**: Speed, SEO, and accessibility improvements for websites that perform flawlessly across all platforms.
+## What i offer:
+1. AI-Driven Web Development: Seamless integration of AI  tools and APIs to enhance functionality and user engagement.
+2. Dynamic User Interfaces: Expert in designing intuitive,  responsive, and scalable interfaces with React, Vue.js, and Nuxt.js.
+3. Custom Solutions: Tailored web applications for B2B,  B2C, and SaaS businesses, ensuring every project is aligned with your goals.
+4. Performance Optimization: Speed, SEO, and accessibility  improvements for websites that perform flawlessly across all platforms.
 
----
+If you're looking for a professional you can trust to take on your project and deliver 
+exceptional results while keeping the process smooth and stress-free, let’s connect.
 
-## 🤝 Let's Work Together!
 
-If you're looking for a professional you can trust to take on your project and deliver exceptional results while keeping the process smooth and stress-free, let’s connect!
-
-[![Contact Me](https://img.shields.io/badge/Contact_Me-Let's_Talk!-brightgreen?style=for-the-badge&logo=dialogflow)](mailto:question@limihub.info)
+can I add the progress line for programming languages? To demonstrate my skils
