@@ -1,4 +1,4 @@
-this is what I have now: # Hey! Nice to see you!
+# Hey! Nice to see you!
 
 As a Frontend Developer with a passion for innovation, I specialize in crafting AI-enhanced web applications that deliver exceptional user experiences. My expertise lies in merging cutting-edge AI technologies with modern frontend frameworks like React and Vue.js to create intelligent, efficient, and visually captivating solutions.
 
