@@ -101,10 +101,10 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 
 
 ## What i offer:
-1. AI-Driven Web Development: Seamless integration of AI  tools and APIs to enhance functionality and user engagement.
-2. Dynamic User Interfaces: Expert in designing intuitive,  responsive, and scalable interfaces with React, Vue.js, and Nuxt.js.
-3. Custom Solutions: Tailored web applications for B2B,  B2C, and SaaS businesses, ensuring every project is aligned with your goals.
-4. Performance Optimization: Speed, SEO, and accessibility  improvements for websites that perform flawlessly across all platforms.
+- AI-Driven Web Development: Integrating AI tools and APIs to boost functionality and engagement.
+- Dynamic User Interfaces: Crafting intuitive, scalable interfaces with React, Vue.js, and Nuxt.js.
+- Custom Solutions: Tailored web apps for B2B, B2C, and SaaS, aligned with business goals.
+- Performance Optimization: Enhancing speed, SEO, and accessibility for flawless performance.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
