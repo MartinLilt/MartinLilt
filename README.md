@@ -19,6 +19,8 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)                  | Intermediate (80%) | 2+ Years           | Backend development, automation, creating bots, and innovative data processing workflows  | [Python](https://www.python.org/)                                                                           |
 | [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)                     | Beginner (70%)   | 1 Year              | Lightweight web applications, scripting tools, and improving existing systems             | [Ruby](https://www.ruby-lang.org/)                                                                          |
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### Libraries, Frameworks, and Technologies
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxtjs.org/)
@@ -52,6 +54,8 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![Enzyme](https://img.shields.io/badge/Enzyme-00ADF2?style=for-the-badge&logo=airbnb&logoColor=white)](https://enzymejs.github.io/enzyme/)
 [![RTL](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### Databases, CMS, and Builders
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
@@ -79,6 +83,8 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 2. Dynamic User Interfaces: Expert in designing intuitive,  responsive, and scalable interfaces with React, Vue.js, and Nuxt.js.
 3. Custom Solutions: Tailored web applications for B2B,  B2C, and SaaS businesses, ensuring every project is aligned with your goals.
 4. Performance Optimization: Speed, SEO, and accessibility  improvements for websites that perform flawlessly across all platforms.
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 If you're looking for a professional you can trust to take on your project and deliver 
 exceptional results while keeping the process smooth and stress-free, let’s connect.
