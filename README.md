@@ -9,32 +9,20 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 
 ## Programming Languages Proficiency
 
-<table style="width: 100%; text-align: left;">
-  <tr>
-    <th style="width: 50%;">Language</th>
-    <th style="width: 50%;">Proficiency</th>
-  </tr>
-  <tr>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a></td>
-    <td>██████████ 95%</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a></td>
-    <td>█████████ 90%</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a></td>
-    <td>████████ 75%</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a></td>
-    <td>████████ 80%</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"></a></td>
-    <td>███████ 70%</td>
-  </tr>
-</table>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+**Proficiency**: ██████████ 95%
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+**Proficiency**: █████████ 90%
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
+**Proficiency**: ████████ 75%
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+**Proficiency**: ████████ 80%
+
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)  
+**Proficiency**: ███████ 70%
 
 ### Libraries, Frameworks, and Technologies
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
