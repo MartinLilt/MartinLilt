@@ -9,11 +9,61 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 
 ## Programming Languages Proficiency
 
-[![JavaScript 100%](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript 100%](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PHP 40%](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Python 40%](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Ruby 30%](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="flex: 1;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <div style="flex: 3; background-color: #ddd; border-radius: 5px; overflow: hidden; margin-left: 10px; height: 30px;">
+    <div style="width: 95%; background-color: #4caf50; height: 100%; text-align: right; line-height: 30px; padding-right: 10px; color: white; font-weight: bold;">
+      95%
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://www.typescriptlang.org/" style="flex: 1;">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  </a>
+  <div style="flex: 3; background-color: #ddd; border-radius: 5px; overflow: hidden; margin-left: 10px; height: 30px;">
+    <div style="width: 90%; background-color: #4caf50; height: 100%; text-align: right; line-height: 30px; padding-right: 10px; color: white; font-weight: bold;">
+      90%
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://www.php.net/" style="flex: 1;">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  </a>
+  <div style="flex: 3; background-color: #ddd; border-radius: 5px; overflow: hidden; margin-left: 10px; height: 30px;">
+    <div style="width: 75%; background-color: #4caf50; height: 100%; text-align: right; line-height: 30px; padding-right: 10px; color: white; font-weight: bold;">
+      75%
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://www.python.org/" style="flex: 1;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <div style="flex: 3; background-color: #ddd; border-radius: 5px; overflow: hidden; margin-left: 10px; height: 30px;">
+    <div style="width: 80%; background-color: #4caf50; height: 100%; text-align: right; line-height: 30px; padding-right: 10px; color: white; font-weight: bold;">
+      80%
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://www.ruby-lang.org/" style="flex: 1;">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+  </a>
+  <div style="flex: 3; background-color: #ddd; border-radius: 5px; overflow: hidden; margin-left: 10px; height: 30px;">
+    <div style="width: 70%; background-color: #4caf50; height: 100%; text-align: right; line-height: 30px; padding-right: 10px; color: white; font-weight: bold;">
+      70%
+    </div>
+  </div>
+</div>
+
 
 ### Libraries, Frameworks, and Technologies
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
