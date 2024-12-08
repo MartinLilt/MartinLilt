@@ -9,13 +9,20 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 
 ## Programming Languages Proficiency
 
-| Language     | Proficiency                                |
-|--------------|--------------------------------------------|
-| JavaScript   | ![JavaScript](https://progress-bar.dev/95/)|
-| TypeScript   | ![TypeScript](https://progress-bar.dev/90/)|
-| Python       | ![Python](https://progress-bar.dev/80/)    |
-| PHP          | ![PHP](https://progress-bar.dev/75/)       |
-| Ruby         | ![Ruby](https://progress-bar.dev/70/)      |
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+`█████████░░` 90%
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+`████████░░░` 80%
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+`███████░░░░` 70%
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+`█████████░░` 90%
+
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+`██████░░░░░` 60%
 
 
 ### Libraries, Frameworks, and Technologies
