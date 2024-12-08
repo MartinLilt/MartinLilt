@@ -74,9 +74,16 @@ Front-end developer with a strong passion for crafting innovative and high-quali
 
 ---
 
-## Projects
-- 🔭 I’m currently working on some amazing projects!
-- 🌱 I’m always learning and growing my skillset.
-- 👯 I’m looking to collaborate on interesting projects.
+## What i offer:
+1. AI-Driven Web Development: Seamless integration of AI  tools and APIs to enhance functionality and user engagement.
+2. Dynamic User Interfaces: Expert in designing intuitive,  responsive, and scalable interfaces with React, Vue.js, and Nuxt.js.
+3. Custom Solutions: Tailored web applications for B2B,  B2C, and SaaS businesses, ensuring every project is aligned with your goals.
+4. Performance Optimization: Speed, SEO, and accessibility  improvements for websites that perform flawlessly across all platforms.
 
-Feel free to reach out if you want to discuss tech, projects, or anything else!
+
+
+If you're looking for a professional you can trust to take on your project and deliver 
+exceptional results while keeping the process smooth and stress-free, let’s connect.
+
+## Message me today to get started!
+
