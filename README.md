@@ -13,39 +13,33 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <th style="width: 30%;">Badge</th>
-    <th style="width: 15%;">Proficiency</th>
-    <th style="width: 15%;">Years of Experience</th>
-    <th style="width: 40%;">Usage</th>
+    <th style="width: 20%;">Badge</th>
+    <th style="width: 20%;">Proficiency</th>
+    <th style="width: 60%;">Usage</th>
   </tr>
   <tr>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"></a></td>
     <td>Expert (95%)</td>
-    <td>5+ Years</td>
     <td>Full-stack applications, building scripts, API services, and CMS integrations</td>
   </tr>
   <tr>
     <td><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"></a></td>
     <td>Advanced (90%)</td>
-    <td>3+ Years</td>
     <td>Developing platforms, creating secure web apps, and improving team workflows</td>
   </tr>
   <tr>
     <td><a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"></a></td>
     <td>Intermediate (75%)</td>
-    <td>2 Years</td>
     <td>CMS customizations, backend workflows, API connections, and database queries</td>
   </tr>
   <tr>
     <td><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></a></td>
     <td>Intermediate (80%)</td>
-    <td>1+ Years</td>
     <td>Automation scripts, building intelligent bots, data workflows, and server tools</td>
   </tr>
   <tr>
     <td><a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge"></a></td>
     <td>Beginner (70%)</td>
-    <td>1 Year</td>
     <td>Lightweight tools, simplifying workflows, small apps, and custom utilities</td>
   </tr>
 </table>
