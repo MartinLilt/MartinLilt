@@ -7,6 +7,8 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:question@limihub.info)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://website-portfolio-fd41ed.webflow.io/)
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## Programming Knowledge
 
 | Badge                                                                                                          | Proficiency      | Years of Experience | Usage                                                                                      | Language                                                                                                    |
