@@ -80,5 +80,3 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 If you're looking for a professional you can trust to take on your project and deliver 
 exceptional results while keeping the process smooth and stress-free, let’s connect.
 
-
-can I add the progress line for programming languages? To demonstrate my skils
