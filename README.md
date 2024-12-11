@@ -98,7 +98,7 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
-[![OrbStack](https://img.shields.io/badge/OrbStack-000000?style=for-the-badge&logo=stackshare&logoColor=white)](https://orbstack.dev/)
+[![OrbStack](https://img.shields.io/badge/OrbStack-1A73E8?style=for-the-badge&logo=orbstack&logoColor=white)](https://orbstack.dev/)
 
 ## What i offer:
 - AI-Driven Web Development: Integrating AI tools and APIs to boost functionality and engagement.
