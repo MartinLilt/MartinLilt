@@ -98,6 +98,7 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![OrbStack](https://img.shields.io/badge/OrbStack-4E88F7?style=for-the-badge&logoColor=white)](https://orbstack.dev/
 
 
 ## What i offer:
