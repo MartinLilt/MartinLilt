@@ -101,6 +101,7 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![OrbStack](https://img.shields.io/badge/OrbStack-1A73E8?style=for-the-badge&logo=orbstack&logoColor=white)](https://orbstack.dev/)
 [![Zeplin](https://img.shields.io/badge/Zeplin-FDC830?style=for-the-badge&logo=zeplin&logoColor=black)](https://zeplin.io/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
+[![Loom](https://img.shields.io/badge/Loom-4A154B?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/)
 
 ## What i offer:
 - AI-Driven Web Development: Integrating AI tools and APIs to boost functionality and engagement.
