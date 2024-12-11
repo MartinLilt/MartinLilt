@@ -38,7 +38,7 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
     <td>Automation scripts, building intelligent bots, data workflows, and server tools</td>
   </tr>
   <tr>
-    <td><a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge"></a></td>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"></a></td>
     <td>Beginner (70%)</td>
     <td>Lightweight tools, simplifying workflows, small apps, and custom utilities</td>
   </tr>
