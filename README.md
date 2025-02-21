@@ -19,12 +19,12 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
   </tr>
   <tr>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"></a></td>
-    <td>Expert (95%)</td>
+    <td>Expert (100%)</td>
     <td>Full-stack applications, building scripts, API services, and CMS integrations</td>
   </tr>
   <tr>
     <td><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"></a></td>
-    <td>Advanced (90%)</td>
+    <td>Expert (100%)</td>
     <td>Developing platforms, creating secure web apps, and improving team workflows</td>
   </tr>
   <tr>
