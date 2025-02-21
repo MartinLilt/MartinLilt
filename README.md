@@ -29,12 +29,12 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
   </tr>
   <tr>
     <td><a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"></a></td>
-    <td>Proficient (75%)</td>
+    <td>Beginner (70%)</td>
     <td>CMS customizations, backend workflows, API connections, and database queries</td>
   </tr>
   <tr>
     <td><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></a></td>
-    <td>Proficient (80%)</td>
+    <td>Advanced (80%)</td>
     <td>Automation scripts, building intelligent bots, data workflows, and server tools</td>
   </tr>
   <tr>
