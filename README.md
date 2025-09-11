@@ -1,4 +1,4 @@
-# Hey! Nice to see you!
+# 👋 Hi, I’m Martin
 
 Senior Frontend Dev with 6+ years in Vue & React. I create scalable apps and clean UIs with strong UX and performance — from SaaS platforms to marketing sites, with AI & LLM integrations.
 
