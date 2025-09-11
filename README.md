@@ -5,7 +5,8 @@ As a Frontend Developer with a passion for innovation, I specialize in crafting 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-liminovic-44046b21a/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/martinl38)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:question@limihub.info)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://website-portfolio-fd41ed.webflow.io/)
+[![Toptal](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/) 
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/USERNAME)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
