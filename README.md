@@ -2,11 +2,21 @@
 
 As a Frontend Developer with a passion for innovation, I specialize in crafting AI-enhanced web applications that deliver exceptional user experiences. My expertise lies in merging cutting-edge AI technologies with modern frontend frameworks like React and Vue.js to create intelligent, efficient, and visually captivating solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-liminovic-44046b21a/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/martinl38)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:question@limihub.info)
-[![Toptal](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/) 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/USERNAME)
+<a href="https://www.linkedin.com/in/martin-liminovic-44046b21a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.upwork.com/freelancers/martinl38">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+</a>
+<a href="mailto:question@limihub.info">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.toptal.com/">
+  <img src="https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal">
+</a>
+<a href="https://www.fiverr.com/USERNAME">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
+</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
