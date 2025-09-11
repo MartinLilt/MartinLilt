@@ -1,6 +1,6 @@
 # Hey! Nice to see you!
 
-As a Frontend Developer with a passion for innovation, I specialize in crafting AI-enhanced web applications that deliver exceptional user experiences. My expertise lies in merging cutting-edge AI technologies with modern frontend frameworks like React and Vue.js to create intelligent, efficient, and visually captivating solutions.
+Senior Frontend Dev with 6+ years in Vue & React. I create scalable apps and clean UIs with strong UX and performance — from SaaS platforms to marketing sites, with AI & LLM integrations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-liminovic-44046b21a/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/martinl38)
