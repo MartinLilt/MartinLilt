@@ -38,11 +38,6 @@ Senior Frontend Dev with 6+ years in Vue & React. I create scalable apps and cle
     <td>Advanced (80%)</td>
     <td>Automation scripts, building intelligent bots, data workflows, and server tools</td>
   </tr>
-  <tr>
-    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"></a></td>
-    <td>Beginner (70%)</td>
-    <td>Lightweight tools, simplifying workflows, small apps, and custom utilities</td>
-  </tr>
 </table>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
