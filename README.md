@@ -1,9 +1,9 @@
 # Martin Liminovic  
 ### AI & SaaS Systems Engineer
 
-I design and build scalable SaaS platforms and AI-powered web systems used in real production environments — from data-driven property analysis tools to plugin ecosystems for modern web platforms.
+I design and build scalable SaaS platforms and AI-enhanced web systems used in production across EU markets.
 
-With 6+ years of engineering experience, I focus on frontend architecture, automation, and AI/LLM integrations that enhance real business workflows.
+With 6+ years of engineering experience, I specialize in frontend architecture, analytical workflows, and AI/LLM integrations that improve business decision-making and operational efficiency.
 
 ---
 
@@ -13,32 +13,46 @@ With 6+ years of engineering experience, I focus on frontend architecture, autom
 - AI & LLM Integration  
 - Scalable Frontend Architecture  
 - Plugin & Extension Ecosystems  
+- Analytical Dashboards  
 - Automation & Data Workflows  
 - Performance & UX Optimization  
 
 ---
 
-## Current Focus
+## Engineering Experience
 
-### 🏗 DomBee  
-AI-driven residential property analysis platform for the German market.
-
-- Multi-step analytical workflows  
-- E-Score / L-Score calculation models  
-- Data-quality evaluation pipelines  
-- Localization (DE / LT)  
-- Serverless backend architecture (AWS Lambda)
+- Developed analytical scoring interfaces for residential data platforms  
+- Built multi-step evaluation workflows for data-driven SaaS products  
+- Implemented automation pipelines for internal business analytics  
+- Integrated AI-assisted processing into real-world web platforms  
+- Designed scalable UI architectures for high-interaction dashboards  
 
 ---
 
-### 🔌 ammplug.com  
-Plugin ecosystem SaaS for website builders and automation platforms.
+## Current Focus
 
-- Version-control-like systems for CMS environments  
-- Partial backup & diff tracking  
+- AI-driven automation systems  
+- Plugin ecosystems for modern web platforms  
+- Workflow optimization tools  
+- SaaS infrastructure for business analytics  
+- AI-assisted monitoring & reporting tools  
+
+---
+
+## Product Development
+
+### 🔌 ammplug  
+Plugin ecosystem for modern website builders and automation platforms.
+
+Focused on:
+
+- CMS version tracking systems  
+- Partial backup & diff-based recovery  
 - Performance optimization plugins  
-- AI-powered automation tools  
-- Integration layer for modern no-code platforms  
+- Builder-level automation tools  
+- Integration layer for no-code environments  
+
+Website: https://ammplug.com
 
 ---
 
@@ -54,7 +68,7 @@ Node.js · NestJS · REST · GraphQL
 Python · OpenAI API · Workflow automation  
 
 **Infrastructure**  
-Docker · CI/CD · AWS Lambda · PostgreSQL · MongoDB  
+Docker · CI/CD · Serverless · PostgreSQL · MongoDB  
 
 ---
 
@@ -63,7 +77,7 @@ Docker · CI/CD · AWS Lambda · PostgreSQL · MongoDB
 - SaaS platforms  
 - Analytical dashboards  
 - AI-enhanced web applications  
-- Plugin systems for builders  
+- Plugin systems  
 - Automation pipelines  
 - Internal business tools  
 
@@ -71,8 +85,11 @@ Docker · CI/CD · AWS Lambda · PostgreSQL · MongoDB
 
 ## Professional Links
 
-[LinkedIn](https://www.linkedin.com/in/martin-liminovic-44046b21a/)  
-[Upwork](https://www.upwork.com/freelancers/martinl38)
+LinkedIn:  
+https://www.linkedin.com/in/martin-liminovic-44046b21a/
+
+Upwork:  
+https://www.upwork.com/freelancers/martinl38
 
 ---
 
