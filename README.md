@@ -39,6 +39,26 @@ With 6+ years of engineering experience, I specialize in frontend architecture, 
 
 ---
 
+## AI Engineering Transition (2026)
+
+In 2026, I began expanding my engineering focus towards LLM and AI-driven systems.
+
+Currently studying and applying:
+
+- Machine Learning fundamentals  
+- Regression modeling approaches  
+- Data evaluation techniques  
+- AI-assisted analytical workflows  
+
+With a focus on:
+
+- Integrating LLM capabilities into SaaS platforms  
+- Designing AI-supported decision layers  
+- Building automation pipelines powered by ML insights  
+- Applying predictive modeling in real-world web products  
+
+---
+
 ## Product Development
 
 ### 🔌 ammplug  
